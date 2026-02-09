@@ -53,7 +53,7 @@ I have delivered high-performance web solutions and security consultancies for a
 * **Corporate & Enterprise:** [Ogrelix](https://ogrelix.org), [ASSR Emporium](https://assremphorium.com), [Loyalty Paradise](https://loyaltyparadise.com)
 * **Education & Career:** [Catalyst](https://catalyst.ogrelix.org), [Zaikin](https://zaikin.ogrelix.org), [X-Talent Hub](https://xtalenthub.com/)
 * **Healthcare & Services:** [Mudra Homecare](https://mudrahomecare.com), [MSS Chennai](https://msschenai.in)
-* **Development & Infrastructure:** [Amogh Developers]([https://amoghdevelopers.com](https://www.amoghdevelopers.co.in/))
+* **Development & Infrastructure:** [Amogh Developers](https://amoghdevelopers.com)
 
 ---
 
