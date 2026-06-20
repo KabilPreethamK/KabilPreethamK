@@ -16,9 +16,6 @@ At **Panimalar Engineering College**, I transitioned into a security-first minds
 
 ## 🚀 Experience & Ventures
 
-* **Founder & CEO @ Ogrelix Solutions**
-    * Leading a team of 11 to deliver **CAMPUS**, a comprehensive institutional ERP.
-    * Registered MSME providing specialized consultancy in VAPT and full-stack development.
 * **Strategic Partnerships**
     * Collaborating with **Mrs. Ashwini Priyanka Rajendar** (CEO, Assr Emporium) and **Dr. Muthu Singaram** (CEO, HTIC IIT Research Park) on industrial-scale innovation.
 * **Cyber Security Analyst Intern @ Gold Coast IT Solutions**
