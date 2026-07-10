@@ -1,29 +1,40 @@
-# Hi there, I'm Kabil Preetham K. 👋
+# Kabil Preetham K
 
-### Cybersecurity Security Analyst | VAPT | Penetration Testing | Network Security | AI-Powered Security Tools | Threat Detection & Risk Mitigation
+### Offensive Security Engineer | AI Researcher | VAPT | Applied Cryptography
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=From%20Visual%20Storytelling%20to%20Cyber%20Architecture&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Innovating%20at%20the%20edge%20of%20AI%20and%20Cybersecurity&descAlignY=55&descAlign=50)
-
----
-
-## 📖 The Story So Far
-
-My journey began at the intersection of imagination and technology. Starting as a **Bio-Maths student** fascinated by cinematic visual effects, I mastered tools like **After Effects** and **Blender** before pivoting to protect the digital worlds I once helped visualize.
-
-At **Panimalar Engineering College**, I transitioned into a security-first mindset. This evolution birthed **MASTER** and **AIBIOS**, exploring kernel-level threat monitoring. Today, I lead **Ogrelix Solutions**, choosing the path of entrepreneurship to build tools that merge AI with offensive and defensive cybersecurity.
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Security%20Engineering%20&%20Autonomous%20AI&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Innovating%20at%20the%20edge%20of%20AI%20and%20Cybersecurity&descAlignY=55&descAlign=50)
 
 ---
 
-## 🚀 Experience & Ventures
+## 📖 Professional Summary
 
-* **Strategic Partnerships**
-    * Collaborating with **Mrs. Ashwini Priyanka Rajendar** (CEO, Assr Emporium) and **Dr. Muthu Singaram** (CEO, HTIC IIT Research Park) on industrial-scale innovation.
-* **Cyber Security Analyst Intern @ Gold Coast IT Solutions**
-    * Hands-on experience in threat analysis and risk mitigation (May 2023).
+I span the spectrum between offensive security engineering, autonomous AI systems, and hardware-based vulnerability analysis. Over the past four years, I have combined full-stack development with advanced technological security solutions, delivering over 20 consultancy sessions, designing 50+ secure web platforms, and building multiple production-ready applications. 
+
+With 4+ academic research papers and a submitted patent on advanced technology systems, I approach cybersecurity not as an afterthought, but as an integral component of both code and hardware architecture.
 
 ---
 
-## 🛠 The Ogrelix Product Ecosystem
+## 🚀 Active Research & Engineering Solutions
+
+* **IoMT & Healthcare Security:** Penetration testing and vulnerability extraction on high-profile Internet of Medical Things (IoMT) devices and medical equipment networks.
+* **Automotive & Smart Automation:** Reverse engineering and vulnerability extraction targeting CAN-bus modules, smart automation systems, and IoT devices.
+* **AI-Powered Cyber Defense & Threat Intelligence:** Developing autonomous threat-handling frameworks utilizing LLM cognitive loops and RAG. A prime example is the ongoing development of **Neural-Threat**, an LLM-guided autonomous vulnerability orchestration system. Current research focuses on mitigating emerging AI-based security threats, including agentic AI exploitation, zero-click prompt injection, RAG poisoning, and model inversion within enterprise AI applications.
+* **Web3 & Applied Cryptography:** Smart contract auditing (Solidity/Rust), decentralized finance (DeFi) protection architectures, and Zero Trust infrastructure development.
+
+---
+
+## 🏆 Research, Recognition & Experience
+
+* **Research Focus:** Autonomous Cognitive Architecture for Offensive Cyberspace Operations.
+* **Recognition:** Secured **8th Place** at the IEEE Project Expo for **ONI (Open Network Intelligence)**.
+* **Experience:** 
+  * Security and infrastructure development, architecting high-performance web solutions and ERPs like the **CAMPUS** ecosystem.
+  * **Cyber Security Analyst Intern @ Gold Coast IT Solutions** - Threat analysis and risk mitigation (May 2023).
+
+---
+
+
+## 🛠 The Project Ecosystem 
 
 | Product | Category | Description |
 | :--- | :--- | :--- |
@@ -71,12 +82,6 @@ I have delivered high-performance web solutions and security consultancies for a
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
-
----
-
-## 🏆 Research & Recognition
-* **Current Research:** *Autonomous Cognitive Architecture for Offensive Cyberspace Operations* — developing an LLM-based VAPT framework.
-* **IEEE Project Expo:** Secured **8th Place** for **ONI (Open Network Intelligence)**.
 
 ---
 
